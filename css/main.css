@@ -212,4 +212,6 @@ footer {
       grid-column: 1; }
       .recipe .instructions h2 {
         font-size: 24px;
+        margin-bottom: 30px; }
+      .recipe .instructions li {
         margin-bottom: 30px; } }
